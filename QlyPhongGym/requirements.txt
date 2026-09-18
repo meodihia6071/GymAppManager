@@ -1,0 +1,12 @@
+﻿PyQt6
+opencv-python-headless
+pyzbar
+SQLAlchemy
+pymysql
+bcrypt
+python-dotenv
+itsdangerous
+pyqtgraph
+pandas
+openpyxl
+qrcode[pil]
